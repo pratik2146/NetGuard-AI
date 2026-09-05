@@ -1,0 +1,34 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: netguard_app
+    ports:
+      - "8501:8501"
+    environment:
+      MONGODB_URI: mongodb://mongo:27017/
+      MONGODB_DB_NAME: netguard_ai
+      MONGODB_COLLECTION_NAME: predictions
+    depends_on:
+      mongo:
+        condition: service_healthy
+    restart: unless-stopped
+
+  mongo:
+    image: mongo:6.0
+    container_name: netguard_mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    healthcheck:
+      test: [ "CMD-SHELL", "mongosh --quiet --eval \"db.adminCommand('ping').ok\" || exit 1" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 20s
+    restart: unless-stopped
+
+volumes:
+  mongo_data:

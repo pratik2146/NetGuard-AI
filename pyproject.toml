@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "netguard-ai"
+version = "1.0.0"
+description = "Enterprise Intelligent Network Fault Prediction & Predictive Maintenance System"
+readme = "README.md"
+authors = [
+    { name = "NetGuard AI Team" }
+]
+requires-python = ">=3.9"
+dependencies = [
+    "streamlit>=1.25.0",
+    "pandas>=2.0.0",
+    "numpy>=1.24.0",
+    "scikit-learn>=1.2.0",
+    "plotly>=5.14.0",
+    "pymongo>=4.3.3",
+    "joblib>=1.2.0",
+    "openpyxl>=3.1.0",
+    "matplotlib>=3.7.0",
+    "python-dotenv>=1.0.0"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.3.0",
+    "pytest-cov>=4.1.0"
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"
+pythonpath = ["src"]

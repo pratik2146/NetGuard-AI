@@ -1,0 +1,230 @@
+feature,importance
+Uptime (network),0.22274018395336861
+P1_Bits _sent,0.04090428314858904
+ICMP response time,0.037927952629336806
+P1_ Bits_ received,0.034674182605396876
+Uptime2(network),0.023566984963841606
+B3_ Bits_ sent,0.022033463281046307
+B2_Bits_ received,0.02159142842228372
+B4_Bits_ sent,0.021442161771105715
+B3_Bits_ received,0.021026056198738208
+B4_ Bits_ received,0.020779442091780207
+C3_ Bits_ sent,0.019973188577488744
+B2_Bits_ sent,0.019880709161243026
+C3_ Bits_ received,0.01905415243636803
+P3_ Bits_ sent,0.018704210883215618
+B8_ Bits_ received,0.018455424828930516
+C1_Bits_ sent,0.018103961008592864
+C1_ Bits_ received,0.017930152187691617
+B8_ Bits_sent,0.01775159004391114
+P2_ Bits_ received,0.017649290946793284
+P2_ Bits_ sent,0.017623087595621645
+P4_ Bits_ received,0.017278593168220727
+P4_ Bits_ sent,0.016962540631827432
+ICMP loss,0.016889963648843844
+P3_ Bits_ received,0.01666976792716338
+C2_ Bits_ received,0.01545384207716672
+B10_ Bits_ sent,0.01540591061866464
+B10_ Bits_ received,0.015332820103953655
+C2_ Bits_ sent,0.014970542591907974
+ICMP ping,0.013347129361900828
+B5_Bits_ received,0.013257573026978798
+B6_Bits_ sent,0.013151687640158116
+B6_ Bits_ received,0.012955717230160512
+B5_ Bits_ sent,0.012854487368387462
+U_ Bits_ sent,0.012545622336734933
+B1_Bits_ received,0.012217273475579212
+B1_Bits_ sent,0.011288904572668214
+U_ Bits_ received,0.01083630496482344
+U_Outbound_ packets_ with_ errors,0.010005616431062313
+B13_ Bits_ received,0.00927865856656518
+B9_Bits_ received,0.009210790441540388
+B12_ Bits_ sent,0.009182440137190304
+B11_ Bits_ sent,0.00898423278370103
+B9_ Bits_ sent,0.008866231619797618
+B11_ Bits_ received,0.008503891336130755
+B13_ Bits_ sent,0.008082941524268005
+B12_ Bits_ received,0.008007150491264062
+downstream_dependents,0.007988534912733316
+Hop_to_server,0.004017761677899085
+Hop_to_core,0.0037525371038825152
+B1_Outbound_ packets_ with_ errors,0.003267768523938406
+SNMP agent availability,0.002002264403070509
+hop_to_core,0.001958455158271081
+hop_to_server,0.0015338059400017041
+P3_Outbound_ packets_ discarded,0.0013816453763860008
+B3_ Outbound_ packets_ discarded,0.00027322785716381884
+P2_Outbound_ packets_ discarded,0.0002360475364584279
+B4_Outbound _packets_ discarded,0.0002218677800974453
+B5_Outbound_ packets_ discarded,1.0939096482469556e-05
+B10_ Outbound_ packets_ discarded,2.603821612068878e-06
+P1_ Outbound _packets_ with_ errors,0.0
+P1_Speed,0.0
+P1_Operational _status,0.0
+P1_ Outbound_ packets_ discarded,0.0
+B2_ Operational_ status,0.0
+B2_Outbound _packets_ discarded,0.0
+B2_ Interface_ type,0.0
+B2_Inbound_packets_ discarded,0.0
+B2_ Duplex_ status,0.0
+path_up,0.0
+B4_ Speed,0.0
+B4_ Outbound_ packets_ with_ errors,0.0
+B4_ Operational_ status,0.0
+B4_ Interface_ type,0.0
+P1_ Duplex_ status,0.0
+P1_ Inbound_ packets_ discarded,0.0
+P1_Inbound _packets_ with_ errors,0.0
+P1_ Interface_ type,0.0
+B1_ Outbound_ packets_ discarded,0.0
+B1_Speed,0.0
+U_ Operational_ status,0.0
+B1_ Duplex _status,0.0
+B1_ Inbound_ packets_ discarded,0.0
+B1_Inbound_ packets_ with_ errors,0.0
+B1_ Interface_ type,0.0
+B1_Operational_ status,0.0
+B3_Inbound _packets_ discarded,0.0
+B3_ Duplex_ status,0.0
+B2_ Outbound_ packets_ with_ errors,0.0
+B2_ Speed,0.0
+B3_ Operational_ status,0.0
+B3_Interface_ type,0.0
+B3_ Speed,0.0
+B3_Inbound_ packets_ with_ errors,0.0
+B3_ Outbound_ packets_ with _errors,0.0
+B2_Inbound_ packets_ with_ errors,0.0
+U_ Speed,0.0
+U_Outbound_ packets_ discarded,0.0
+U_Interface_ type,0.0
+U_ Duplex_ status,0.0
+U_ Inbound_ packets_ with _errors,0.0
+U_Inbound_ packets_ discarded,0.0
+B8_ Duplex_ status,0.0
+B7_ Speed,0.0
+B7_ Outbound_ packets_ discarded,0.0
+B7_ Outbound_ packets_ with_ errors,0.0
+B7_ Operational_ status,0.0
+B7_ Interface_ type,0.0
+B7_Inbound_ packets_ discarded,0.0
+B7_ Inbound_ packets_ with_ errors,0.0
+B6_ Speed,0.0
+B6_ Outbound_ packets_ with_ errors,0.0
+B7_ Bits_ sent,0.0
+B7_ Bits _received,0.0
+B6_ Outbound_ packets_ discarded,0.0
+B6_ Operational_ status,0.0
+B6_ Inbound_ packets_ with_ errors,0.0
+B6_ Interface_ type,0.0
+B5_Duplex_ status,0.0
+B5_ Inbound_ packets _discarded,0.0
+B6_ Inbound_ packets_ discarded,0.0
+B6_ Duplex_ status,0.0
+B5_Outbound_ packets_ with_ errors,0.0
+B5_ Speed,0.0
+B5_ Interface_ type,0.0
+B5_ Operational_ status,0.0
+B5_ Inbound_ packets_ with_ errors,0.0
+B4_ Duplex_ status,0.0
+B4_ Inbound_ packets_ with_ errors,0.0
+B4_ Inbound_packets_ discarded,0.0
+B9_ Outbound_ packets_ with_ errors,0.0
+B9_ Outbound_ packets_ discarded,0.0
+B9_ Operational_ status,0.0
+B8_ Speed,0.0
+B10_ Duplex_ status,0.0
+C1_ Outbound_ packets_ discarded,0.0
+C1_Outbound_ packets_ with_ errors,0.0
+C1_ Speed,0.0
+C1_Inbound_ packets_ discarded,0.0
+C1_Inbound_ packets_ with_  errors,0.0
+C1_ Interface_ type,0.0
+B10_Inbound_ packets_ discarded,0.0
+B10_Speed,0.0
+B11_ Duplex_ status,0.0
+B11_ Inbound_ packets_ discarded,0.0
+B11_Inbound_ packets_ with_ errors,0.0
+B10_ Operational_ status,0.0
+B10_ Interface_ type,0.0
+B10_ Outbound_ packets_ with_ errors,0.0
+B10_Inbound_ packets_ with_ errors,0.0
+B11_Outbound_ packets_ with_ errors,0.0
+B11_ Outbound_ packets_ discarded,0.0
+B11_ Operational_ status,0.0
+B9_ Interface_ type,0.0
+B9_ Inbound_ packets_ with_ errors,0.0
+B9_ Inbound_ packets_ discarded,0.0
+B9_ Speed,0.0
+C1_ Duplex_ status,0.0
+C1_ Operational_ status,0.0
+B9_Duplex_ status,0.0
+B8_ Interface_ type,0.0
+B8_ Inbound_ packets_ discarded,0.0
+B8_Operational_ status,0.0
+B8_ Outbound_ packets_ discarded,0.0
+B8_ Outbound_ packets_ with_ errors,0.0
+B8_ Inbound_ packets_ with_ errors,0.0
+B12_ Inbound_ packets_ with_ errors,0.0
+B12_ Inbound_ packets_ discarded,0.0
+B12_Duplex_ status,0.0
+C2_Speed,0.0
+C2_ Outbound_ packets_ discarded,0.0
+C2_ Outbound_ packets_ with_ errors,0.0
+C2_Interface_ type,0.0
+C2_ Operational_ status,0.0
+C2_ Duplex_ status,0.0
+B11_ Speed,0.0
+C2_Inbound_ packets_ with_ errors,0.0
+C2_ Inbound_ packets_ discarded,0.0
+B11_Interface_ type,0.0
+B12_Outbound_ packets_ with_ errors,0.0
+B12_ Speed,0.0
+B12_Outbound_ packets_ discarded,0.0
+B13_Speed,0.0
+C3_ Duplex_ status,0.0
+C3_ Inbound_ packets_ discarded,0.0
+C3_ Inbound_ packets_ with_ errors,0.0
+C3_ Interface_ type,0.0
+C3_Operational_ status,0.0
+C3_ Outbound_ packets_ discarded,0.0
+B12_Interface_ type,0.0
+B13_ Duplex_ status,0.0
+B13_ Inbound_ packets_ discarded,0.0
+B13_ Interface type,0.0
+B13_ Inbound_ packets_ with_ errors,0.0
+B13_ Operational_ status,0.0
+B13_ Outbound_ packets_ discarded,0.0
+B13_Outbound_ packets_ with_ errors,0.0
+B12_ Operational_ status,0.0
+B14_ Outbound_ packets_ discarded,0.0
+B14_ Operational_ status,0.0
+B14_Interface_ type,0.0
+B14_Inbound_ packets_ with_ errors,0.0
+B14_Inbound_ packets_ discarded,0.0
+B14_ Bits_ sent,0.0
+B14_Bits_ received,0.0
+C3_ Speed,0.0
+C3_ Outbound_ packets_ with_ errors,0.0
+P2_ Inbound_ packets_ with_ errors,0.0
+P2_Inbound_ packets_ discarded,0.0
+P2_Operational_ status,0.0
+P2_Interface_ type,0.0
+P2_ Duplex_ status,0.0
+B14_ Speed,0.0
+B14_ Outbound_ packets_ with_ errors,0.0
+P3_Inbound_ packets_ discarded,0.0
+P3_ Duplex_ status,0.0
+P2_ Outbound_ packets_ with_ errors,0.0
+P2_Speed,0.0
+P3_Operational_ status,0.0
+P3_Interface type,0.0
+P3_ Speed,0.0
+P3_ Inbound_ packets_ with_ errors,0.0
+P3_ Outbound_ packets_ with_ errors,0.0
+P4_ Inbound _packets_ discarded,0.0
+P4_Interface_ type,0.0
+P4_Inbound_ packets_ with _errors,0.0
+P4_ Operational_ status,0.0
+P4_Outbound_ packets_ discarded,0.0
+P4_Outbound _packets_ with_ errors,0.0
+P4_Speed,0.0

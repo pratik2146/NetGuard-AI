@@ -1,0 +1,5 @@
+{
+  "model": "Random Forest",
+  "threshold": 0.48,
+  "selection_metric": "F1-score"
+}
